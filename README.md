@@ -1,4 +1,8 @@
 # TrabFinal_ProgMov
+
+Victor Lelis Soares.
+2019.1904.038-2.
+
 Repositório destinado ao trabalho final de Programação de Dispositivos Móveis
 
 A ideia incicial é construir um aplicativo de diário, que permita que apenas usuários CADASTRADOS o acessem e consigam fazer anotações.
